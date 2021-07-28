@@ -1,0 +1,29 @@
+#head {
+    background-color: chartreuse;
+    font-size: 50px;
+    width: 70%;
+    border-radius: 10px;
+    font-family: 'Yomogi', cursive;
+}
+
+#instructions {
+    background-color: cornflowerblue;
+    font-size: x-large;
+    width: 60%;
+    border-radius: 5px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#song_name {
+    background-color: crimson;
+    color: white;
+    width: max-content;
+    border-radius: 5px;
+    margin-top: 35px;
+}
+
+canvas {
+    border: yellowgreen solid 5px;
+    border-radius: 20px;
+    margin-top: 150px;
+}
